@@ -48,3 +48,7 @@ add_action( 'wp_head',  'wp_site_icon',                    99    );
 <br /> Source:
 <br /> https://developer.wordpress.org/reference/hooks/wp_head/
 <br /> https://developer.wordpress.org/reference/hooks/wp_footer/
+
+<br /> Show only particular page
+<br /> https://codex.wordpress.org/Conditional_Tags
+<br /> https://developer.wordpress.org/reference/functions/is_page/  
